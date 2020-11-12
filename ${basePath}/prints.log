@@ -1,0 +1,9 @@
+08:12:51.717 [main] ERROR TestLog - object is not present
+08:12:51.721 [main] FATAL TestLog - this is fatal
+08:13:28.616 [main] DEBUG beta.check - I am debugging
+08:13:28.618 [main] ERROR beta.check - object is not present
+08:13:28.618 [main] FATAL beta.check - this is fatal
+10:15:53.414 [main] DEBUG TestLog - I am debugging
+10:15:53.416 [main] INFO  TestLog - object is present
+10:15:53.416 [main] ERROR TestLog - object is not present
+10:15:53.416 [main] FATAL TestLog - this is fatal
